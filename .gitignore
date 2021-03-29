@@ -1,0 +1,10 @@
+/silverstripe-cache/
+/.env
+/vendor/
+/themes/simple/
+/_resources/
+/public/_resources/
+id_rsa*
+*.pem
+.graphql/
+.idea
